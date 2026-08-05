@@ -1,0 +1,6 @@
+{
+  "Name": "Bankworx_Data_Extraction",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
